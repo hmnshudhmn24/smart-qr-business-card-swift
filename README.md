@@ -2,7 +2,6 @@
 
 Easily generate a scannable business card as a QR code from user-provided contact details. Optionally, write the vCard to an NFC tag for one-tap sharing. This app uses SwiftUI, CoreImage for QR, and CoreNFC for tag writing.
 
----
 
 ## 🔧 Features
 
@@ -11,7 +10,6 @@ Easily generate a scannable business card as a QR code from user-provided contac
 - Beautiful SwiftUI interface 🎨
 - Secure offline data usage 🔒
 
----
 
 ## 🛠 Tech Stack
 
@@ -21,7 +19,6 @@ Easily generate a scannable business card as a QR code from user-provided contac
 - CoreNFC
 - Contacts Framework
 
----
 
 ## 🚀 How to Run
 
@@ -32,7 +29,6 @@ Easily generate a scannable business card as a QR code from user-provided contac
 5. Fill out your details and tap "Generate QR"
 6. (Optional) Write to NFC tag
 
----
 
 ## 📌 Real Use Cases
 
@@ -41,6 +37,5 @@ Easily generate a scannable business card as a QR code from user-provided contac
 - Event check-ins
 - NFC name tags
 
----
 
 🌱 Make networking smarter with QR + NFC!
